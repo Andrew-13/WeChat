@@ -33,6 +33,6 @@
 
 
 
-[1]: https://github.com/Andrew-13/WeChat/blob/main/WeChat%20-%203.3.0.115/Installation%20instructions/README-Ru.md
-[2]: https://github.com/Andrew-13/WeChat/blob/main/WeChat%20-%203.3.0.115/Installation%20instructions/README-En.md
-[3]: https://github.com/Andrew-13/WeChat/blob/main/WeChat%20-%203.3.0.115/Installation%20instructions/README-Cn.md
+[1]: https://github.com/Li-Heping/WeChat/blob/main/WeChat%20-%203.3.0.115/Installation%20instructions/README-Ru.md
+[2]: https://github.com/Li-Heping/WeChat/blob/main/WeChat%20-%203.3.0.115/Installation%20instructions/README-En.md
+[3]: https://github.com/Li-Heping/WeChat/blob/main/WeChat%20-%203.3.0.115/Installation%20instructions/README-Cn.md
