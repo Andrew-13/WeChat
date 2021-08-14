@@ -16,4 +16,6 @@ It is better to save the original file **WeChatResource.dll** somewhere beforeha
 
 ###### After all, a file that has been wildly modified is not immune from failures and errors.
 
+#### [←Back](https://github.com/Andrew-13/WeChat) 
+
 [1]: https://github.com/Andrew-13/WeChat/tree/main/WeChat%20-%203.3.0.115/WeChat%20Resource%20file
