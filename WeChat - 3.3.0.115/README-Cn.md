@@ -16,4 +16,6 @@
 
 ###### 毕竟，经过大量修改的文件并不能保证完全避免失败和错误。
 
+#### [←后退](https://github.com/Andrew-13/WeChat) 
+
 [1]: https://github.com/Andrew-13/WeChat/tree/main/WeChat%20-%203.3.0.115/WeChat%20Resource%20file
