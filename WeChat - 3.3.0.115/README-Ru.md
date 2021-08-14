@@ -15,4 +15,6 @@
 
 ###### Ведь от сбоев и ошибок файл, который был дико изменён, не застрахован.
 
+### [←Назад](https://github.com/Andrew-13/WeChat)
+
 [1]: https://github.com/Andrew-13/WeChat/blob/main/WeChat%20-%203.3.0.115/WeChat%20Resource%20file
