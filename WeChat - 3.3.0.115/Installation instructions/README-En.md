@@ -5,7 +5,7 @@ WeChat Desktop for Windows in Russian
 ### "Installation process"
 1. Before replacing the file, you need to log out of your WeChat account and close the program.
 
-2. Place the downloaded [**WeChatResource.dll**][1] file into the WeChat installation folder on your computer. By default, this folder is located in this path: **C:\Program Files (x86)\Tencent\WeChat**
+2. Place the downloaded [**WeChatResource.dll**][1] file into the WeChat installation folder on your computer. By default, this folder is located in this path: **`C:\Program Files (x86)\Tencent\WeChat`**
 
 ###### If you installed WeChat in a different folder, then just place this [**WeChatResource.dll**][1] file in the folder where WeChat was installed on your computer.
 
