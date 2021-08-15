@@ -5,7 +5,7 @@
 ### 《安装过程》
 1. 替换文件前，你需要先退出微信账号并关闭程序。
 
-2. 将下载好的 [**WeChatResource.dll**][1] 文件放入电脑的微信安装文件夹中。默认情况下，这个文件夹位于这个路径：**C:\Program Files (x86)\Tencent\WeChat**
+2. 将下载好的 [**WeChatResource.dll**][1] 文件放入电脑的微信安装文件夹中。默认情况下，这个文件夹位于这个路径：**`C:\Program Files (x86)\Tencent\WeChat`**
 
 ###### 如果你把微信安装在不同的文件夹中了，那么把这个 [**WeChatResource.dll**][1] 文件放在你电脑上安装微信的文件夹中即可。
 
