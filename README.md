@@ -1,6 +1,13 @@
-# WeChat - 3.3.0.115
-## WeChat Desktop for Windows in Russian
+# Modified WeChat Desktop for Windows - 3.3.0.115
+| Added Russian language |
+| ----|
 
+## **Introduction**
+### Replaced traditional Chinese with Russian for WeChat Desktop chat version: `1.1.0.115`. With the modified [**WeChatResource.dll**][4] file in the chat settings, you can select the Russian language, and the main functions of the application will be displayed in Russian. 
+
+-----
+
+## **Installation**
 > • **Выберите язык для инструкции по установке.**\
 > • **Select language for installation instruction.**\
 > • **选择安装说明的语言。**
@@ -9,6 +16,7 @@
    | :----------: |:------------:|:-----------:|
    | [Русский][1] | [English][2] |  [中文][3]  |
     
+----    
     
 ## Preview
 ![132548](https://user-images.githubusercontent.com/48417413/129460118-1d2b9c7c-f725-4a5f-b750-719c0174a16e.png)
@@ -36,3 +44,4 @@
 [1]: https://github.com/Li-Heping/WeChat/blob/main/WeChat%20-%203.3.0.115/Installation%20instructions/README-Ru.md
 [2]: https://github.com/Li-Heping/WeChat/blob/main/WeChat%20-%203.3.0.115/Installation%20instructions/README-En.md
 [3]: https://github.com/Li-Heping/WeChat/blob/main/WeChat%20-%203.3.0.115/Installation%20instructions/README-Cn.md
+[4]: https://github.com/Li-Heping/WeChat/tree/main/WeChat%20-%203.3.0.115/WeChat%20Resource%20file
