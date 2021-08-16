@@ -3,7 +3,7 @@
 | ----|
 
 ## **Introduction**
-### Replaced traditional Chinese with Russian for WeChat Desktop chat version: `1.1.0.115`. With the modified [**WeChatResource.dll**][4] file in the chat settings, you can select the Russian language, and the main functions of the application will be displayed in Russian. 
+### Replaced traditional Chinese with Russian for WeChat Desktop chat version: `3.3.0.115`. With the modified [**WeChatResource.dll**][4] file in the chat settings, you can select the Russian language, and the main functions of the application will be displayed in Russian. 
 
 -----
 
