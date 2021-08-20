@@ -12,7 +12,7 @@ WeChat Desktop for Windows in Russian
 ----
 
 ### Advice
-- In order to avoid the loss of the Russian language, it is probably better to turn off the automatic WeChat update in the setting. Only after you have made sure that I have added the file with the Russian language to the new version of WeChat, you can manually update Wechat and replace the file **WeChatResource.dll**.
+- In order to avoid the loss of the Russian language, it is probably better to turn off the automatic WeChat update in the setting. Only after you have made sure that I have added the file with the Russian language to the new version of WeChat, you can manually update WeChat and replace the **WeChatResource.dll** file.
 - It is better to save the original file **WeChatResource.dll** somewhere beforehand, so that if some kind of failure occurs in WeChat or the program does not want to start, then it will be possible to return the original file to its original location.
 
 ###### After all, a file that has been wildly modified is not immune from failures and errors.
