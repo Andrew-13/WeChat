@@ -5,7 +5,7 @@
 
 
 ## **Introduction**
-### Replaced traditional Chinese with Russian for ![WeChatIcon](https://user-images.githubusercontent.com/48417413/129711068-ffd3cead-304e-408f-9d01-3f2a39af6cea.png)WeChat Desktop chat. With the modified **WeChatResource.dll** file in the chat settings, you can select the Russian language, and the main functions of the application will be displayed in Russian. 
+### Replaced traditional Chinese with Russian for WeChat Desktop chat. With the modified **WeChatResource.dll** file in the chat settings, you can select the Russian language, and the main functions of the application will be displayed in Russian. 
 
 -----
 
@@ -21,9 +21,10 @@
 ----    
     
 ## Preview
-![132548](https://user-images.githubusercontent.com/48417413/129460118-1d2b9c7c-f725-4a5f-b750-719c0174a16e.png)
-![132747](https://user-images.githubusercontent.com/48417413/129460127-11612f1a-87ee-4eab-a98a-89e7d363e05e.png) 
-![132621](https://user-images.githubusercontent.com/48417413/129455614-b0079fb5-8b3a-4e77-8f9c-cbf9636b4e2b.png) 
+
+![181522](https://user-images.githubusercontent.com/48417413/130255225-aa65db6e-0c61-4b31-ba0d-6c00e4a8a5d3.png)
+![132747](https://user-images.githubusercontent.com/48417413/129460127-11612f1a-87ee-4eab-a98a-89e7d363e05e.png)
+![181555](https://user-images.githubusercontent.com/48417413/130255295-c5758cff-a34f-43f6-b69e-871814db8dc0.png)
 ![202250](https://user-images.githubusercontent.com/48417413/129455426-4a50697e-5cbf-44bb-a335-b215ddef582f.png)
 
 ----
@@ -34,8 +35,11 @@
 
 ----
 
-![132921](https://user-images.githubusercontent.com/48417413/129444898-0a9fff8d-242f-42bd-a1f2-ff9b91d9c566.png) 
-![133010](https://user-images.githubusercontent.com/48417413/129444900-f8da896c-e428-4c33-a173-298ed67f4b4e.png)
+![182046](https://user-images.githubusercontent.com/48417413/130255866-c591ba39-a689-4f95-851d-442f1255f2e1.png)
+![132921](https://user-images.githubusercontent.com/48417413/129444898-0a9fff8d-242f-42bd-a1f2-ff9b91d9c566.png)
+![181916](https://user-images.githubusercontent.com/48417413/130256120-d4d75416-26a1-4025-bec0-11ae7045a606.png)
+![181945](https://user-images.githubusercontent.com/48417413/130256133-2ecd7cdf-9634-415b-aa61-6d7713772f24.png)
+![182005](https://user-images.githubusercontent.com/48417413/130256142-9d42c4a6-6d13-4daf-984e-04cf5739b2f3.png)
 
 ----
 
