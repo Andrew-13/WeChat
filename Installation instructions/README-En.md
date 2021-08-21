@@ -19,4 +19,4 @@ WeChat Desktop for Windows in Russian
 
 #### [←Back](https://github.com/Li-Heping/WeChat) 
 
-[1]: https://github.com/Li-Heping/WeChat/tree/main/WeChat%20Resource%20File%20-%203.3.5.42
+[1]: https://github.com/Li-Heping/WeChat/tree/main/WeChat%20Resource%20File%20-%203.3.5.42/Modified%20WeChat%20Resource%20File
