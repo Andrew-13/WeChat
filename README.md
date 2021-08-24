@@ -23,7 +23,7 @@
 ## Preview
 
 ### `• Watch a Demo Video on`[`YouTube`](https://youtu.be/QXGJDCCON2Q)
-[<img src="https://img.youtube.com/vi/QXGJDCCON2Q/maxresdefault.jpg" width="58%">](https://youtu.be/QXGJDCCON2Q)
+[<img src="https://img.youtube.com/vi/QXGJDCCON2Q/maxresdefault.jpg" width="70%">](https://youtu.be/QXGJDCCON2Q)
 
 ----
 
