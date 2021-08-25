@@ -49,6 +49,8 @@
 
 ----
 
+#### • GIF
+![Settings](https://user-images.githubusercontent.com/48417413/130810368-4e820269-ada2-406d-a842-be24f9144894.gif)
 ![Animate](https://user-images.githubusercontent.com/48417413/129444995-7311de92-d481-4530-881e-51714a51a88b.gif)
 
 
