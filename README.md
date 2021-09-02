@@ -22,6 +22,12 @@
     
 ## Preview
 
+#### • Demo Video on [`YouTube`](https://youtu.be/QXGJDCCON2Q)
+[<img src="https://img.youtube.com/vi/QXGJDCCON2Q/maxresdefault.jpg" width="100%">](https://youtu.be/QXGJDCCON2Q)
+
+----
+
+#### • Screenshot
 ![181522](https://user-images.githubusercontent.com/48417413/130286737-031030f7-5728-429c-87c8-214f03800372.png)
 ![132747](https://user-images.githubusercontent.com/48417413/129460127-11612f1a-87ee-4eab-a98a-89e7d363e05e.png)
 ![181555](https://user-images.githubusercontent.com/48417413/130286769-4867eb04-ba5e-4316-98a2-e0a915b882af.png)
@@ -43,6 +49,8 @@
 
 ----
 
+#### • GIF
+![Settings](https://user-images.githubusercontent.com/48417413/130810368-4e820269-ada2-406d-a842-be24f9144894.gif)
 ![Animate](https://user-images.githubusercontent.com/48417413/129444995-7311de92-d481-4530-881e-51714a51a88b.gif)
 
 
