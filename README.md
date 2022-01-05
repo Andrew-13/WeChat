@@ -5,7 +5,7 @@
 
 
 ## **Introduction**
-### Replaced traditional Chinese with Russian for [**WeChat Desktop**][4] chat. With the modified [**WeChatResource.dll**][5] file in the chat settings, you can select the Russian language, and the main functions of the application will be displayed in Russian. 
+### Replaced traditional Chinese with Russian for [**WeChat Desktop**][4] chat. With the modified **`WeChatResource.dll`** file in the chat settings, you can select the Russian language, and the main functions of the application will be displayed in Russian. 
 
 -----
 
@@ -59,4 +59,4 @@
 [2]: https://github.com/Li-Heping/WeChat/blob/main/Installation%20instructions/README-En.md
 [3]: https://github.com/Li-Heping/WeChat/blob/main/Installation%20instructions/README-Cn.md
 [4]: https://pc.weixin.qq.com/
-[5]: https://github.com/Li-Heping/WeChat/tree/main/WeChat%20Resource%20File%20-%203.3.5.42/Modified%20WeChat%20Resource%20File
+[5]: https://github.com/Li-Heping/WeChat/tree/main/WeChat%20Resource%20File%20-%203.4.5.45/Modified%20WeChat%20Resource%20File
