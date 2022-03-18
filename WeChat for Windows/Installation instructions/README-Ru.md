@@ -16,6 +16,4 @@
 
 ###### Ведь от сбоев и ошибок файл, который был дико изменён, не застрахован.
 
-### [←Назад](https://github.com/Li-Heping/WeChat)
-
-[1]: https://github.com/Li-Heping/WeChat/tree/main/WeChat%20Resource%20File%20-%203.3.5.42/Modified%20WeChat%20Resource%20File
+### [←Назад](https://github.com/Li-Heping/WeChat/blob/main/WeChat%20for%20Windows/README.md)
