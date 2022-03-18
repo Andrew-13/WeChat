@@ -1,11 +1,12 @@
-# Modified WeChat Desktop ![WindowLogoBl](https://user-images.githubusercontent.com/48417413/129701155-aff35408-757f-466b-9636-690585d88cb8.png)
+# Modified WeChat for Mac ![maclogo](https://user-images.githubusercontent.com/48417413/159096455-ad5f6818-26d2-4312-a57a-8e8045373f1b.png)
+
 
 [![WeChatIcon](https://user-images.githubusercontent.com/48417413/129711068-ffd3cead-304e-408f-9d01-3f2a39af6cea.png)](https://www.wechat.com/)
 ![AddedRussianLanguage](https://user-images.githubusercontent.com/48417413/129706200-f6c00907-3f46-490b-8ff0-2b76975df763.png)
 
 
 ## **Introduction**
-### Replaced traditional Chinese with Russian for [**WeChat Desktop**][4] chat. With the modified **`WeChatResource.dll`** file in the chat settings, you can select the Russian language, and the main functions of the application will be displayed in Russian. 
+### Added Russian language for [**WeChat for Mac**][4]. With the added **`ru.lproj`** files, you can select Russian in the settings, and the main functions of the application will be displayed in Russian.
 
 -----
 
@@ -17,7 +18,7 @@
    | ![Ru](https://camo.githubusercontent.com/391b57fb068c30068d206d8b5e14dab22414b7e4e2179aeaa23415ab3404b841/68747470733a2f2f756e69636f64652d7461626c652e636f6d2f692f636f756e7472792d666c6167732f72752e706e67) | ![En](https://camo.githubusercontent.com/6a14aa4dccda53ea9236ff9849bde5b0905e389fda26e7d07fb77e68b76bc2fd/68747470733a2f2f756e69636f64652d7461626c652e636f6d2f692f636f756e7472792d666c6167732f656e2e706e67) | ![Cn](https://camo.githubusercontent.com/5eca8717e615fe73912fe82a1b0ca6b38133ccd08f8cde63d6822d4b8ae484bf/68747470733a2f2f756e69636f64652d7461626c652e636f6d2f692f636f756e7472792d666c6167732f636e2e706e67) |
    | :----------: |:------------:|:-----------:|
    | [Русский][1] | [English][2] |  [中文][3]  |
-    
+
 ----    
     
 ## Preview
@@ -28,10 +29,7 @@
 ----
 
 #### • Screenshot
-![181522](https://user-images.githubusercontent.com/48417413/130286737-031030f7-5728-429c-87c8-214f03800372.png)
-![132747](https://user-images.githubusercontent.com/48417413/129460127-11612f1a-87ee-4eab-a98a-89e7d363e05e.png)
-![181555](https://user-images.githubusercontent.com/48417413/130286769-4867eb04-ba5e-4316-98a2-e0a915b882af.png)
-![202250](https://user-images.githubusercontent.com/48417413/129455426-4a50697e-5cbf-44bb-a335-b215ddef582f.png)
+<img width="300" alt="220305111604" src="https://user-images.githubusercontent.com/48417413/159095359-fcf12b01-4a78-40c8-a041-1bc5b9c2313a.png"> <img width="300" alt="220315111650" src="https://user-images.githubusercontent.com/48417413/159095367-cef88889-9e23-47ce-8b58-85b0dd82f1a7.png"> <img width="300" alt="220315111713" src="https://user-images.githubusercontent.com/48417413/159095392-7a9de7cd-8e21-4a6a-8a4c-d08835e00eac.png"> <img width="300" alt="220315111913" src="https://user-images.githubusercontent.com/48417413/159095478-68ec406e-c266-404c-9242-1ec7301dd652.png">
 
 ----
 
@@ -58,5 +56,4 @@
 [1]: https://github.com/Li-Heping/WeChat/blob/main/Installation%20instructions/README-Ru.md
 [2]: https://github.com/Li-Heping/WeChat/blob/main/Installation%20instructions/README-En.md
 [3]: https://github.com/Li-Heping/WeChat/blob/main/Installation%20instructions/README-Cn.md
-[4]: https://pc.weixin.qq.com/
-[5]: https://github.com/Li-Heping/WeChat/tree/main/WeChat%20Resource%20File%20-%203.4.5.45/Modified%20WeChat%20Resource%20File
+[4]: https://mac.weixin.qq.com/
