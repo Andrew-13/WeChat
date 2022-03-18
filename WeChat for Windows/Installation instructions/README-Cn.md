@@ -17,6 +17,4 @@
 
 ###### 毕竟，经过大量修改的文件并不能保证完全避免失败和错误。
 
-#### [←后退](https://github.com/Li-Heping/WeChat) 
-
-[1]: https://github.com/Li-Heping/WeChat/tree/main/WeChat%20Resource%20File%20-%203.3.5.42/Modified%20WeChat%20Resource%20File
+#### [←后退](https://github.com/Li-Heping/WeChat/blob/main/WeChat%20for%20Windows/README.md)
