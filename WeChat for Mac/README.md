@@ -29,27 +29,23 @@
 ----
 
 #### • Screenshot
-<img width="300" alt="220305111604" src="https://user-images.githubusercontent.com/48417413/159095359-fcf12b01-4a78-40c8-a041-1bc5b9c2313a.png"> <img width="300" alt="220315111650" src="https://user-images.githubusercontent.com/48417413/159095367-cef88889-9e23-47ce-8b58-85b0dd82f1a7.png"> <img width="300" alt="220315111713" src="https://user-images.githubusercontent.com/48417413/159095392-7a9de7cd-8e21-4a6a-8a4c-d08835e00eac.png"> <img width="300" alt="220315111913" src="https://user-images.githubusercontent.com/48417413/159095478-68ec406e-c266-404c-9242-1ec7301dd652.png">
+<img width="300" alt="220305111604" src="https://user-images.githubusercontent.com/48417413/159095359-fcf12b01-4a78-40c8-a041-1bc5b9c2313a.png"> <img width="300" alt="220315111650" src="https://user-images.githubusercontent.com/48417413/159095367-cef88889-9e23-47ce-8b58-85b0dd82f1a7.png"> <img width="300" alt="220315111713" src="https://user-images.githubusercontent.com/48417413/159095392-7a9de7cd-8e21-4a6a-8a4c-d08835e00eac.png"> <img width="300" alt="220315111913" src="https://user-images.githubusercontent.com/48417413/159095478-68ec406e-c266-404c-9242-1ec7301dd652.png"> <img width="575" alt="Снимок экрана 2022-03-22 в 21 23 01" src="https://user-images.githubusercontent.com/48417413/159559715-5ef5962d-c756-475d-874d-3a7def9469f4.png">
 
 ----
 
-![225850](https://user-images.githubusercontent.com/48417413/130287325-6e2ed693-3c94-40be-bcff-1dcd70eb5951.png)
-![133537](https://user-images.githubusercontent.com/48417413/129444911-4eb3ad00-86c1-44c3-9a10-eabda72bbd27.png)
-![201423](https://user-images.githubusercontent.com/48417413/129455216-d8bb2f73-b298-4fe5-9278-ec38fb6d373c.png)
+<img width="505" alt="220322211515" src="https://user-images.githubusercontent.com/48417413/159559142-c1892b37-bd49-4f80-94f3-a1574d299321.png"> 
+<img width="505" alt="220322211521" src="https://user-images.githubusercontent.com/48417413/159559256-ec424b01-6398-46e3-9b7b-da8d72127806.png"> 
+<img width="505" alt="220322211530" src="https://user-images.githubusercontent.com/48417413/159559286-9b7f8e5e-34a0-4f13-8f2e-9b9bccf3b13c.png"> 
+<img width="400" alt="Снимок экрана 2022-03-22 в 21 34 32" src="https://user-images.githubusercontent.com/48417413/159561733-6f6a43bd-a166-45be-b417-bf69b100e09f.png">
 
 ----
 
-![182046](https://user-images.githubusercontent.com/48417413/130255866-c591ba39-a689-4f95-851d-442f1255f2e1.png)
-![132921](https://user-images.githubusercontent.com/48417413/129444898-0a9fff8d-242f-42bd-a1f2-ff9b91d9c566.png)
-![181916](https://user-images.githubusercontent.com/48417413/130286950-91b26ea0-68ef-4137-8e89-21d218c05d62.png)
-![181945](https://user-images.githubusercontent.com/48417413/130256133-2ecd7cdf-9634-415b-aa61-6d7713772f24.png)
-![182005](https://user-images.githubusercontent.com/48417413/130256142-9d42c4a6-6d13-4daf-984e-04cf5739b2f3.png)
+<img width="1434" alt="220322214603" src="https://user-images.githubusercontent.com/48417413/159565190-5ce3b7ad-5982-4a48-8d23-951b56b33ad1.png">
+<img width="1395" alt="220322220152" src="https://user-images.githubusercontent.com/48417413/159566217-4ed528ed-0f75-4110-9964-9b1920df513b.png">
 
 ----
 
 #### • GIF
-![Settings](https://user-images.githubusercontent.com/48417413/130810368-4e820269-ada2-406d-a842-be24f9144894.gif)
-![Animate](https://user-images.githubusercontent.com/48417413/129444995-7311de92-d481-4530-881e-51714a51a88b.gif)
 
 
 
